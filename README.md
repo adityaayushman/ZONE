@@ -1,6 +1,6 @@
 # ZonePro
 
-ZonePro is an all-in-one productivity workspace that combines learning, task management, focus tools, habit tracking, note-taking, analytics, and planning in a single connected experience. It’s built with Next.js, React, TypeScript, and Tailwind CSS, and stores data locally with optional cloud sync via Supabase.
+ZonePro is an productivity workspace that combines learning, task management, focus tools, habit tracking, note-taking, analytics, and planning in a single connected experience. It’s built with Next.js, React, TypeScript, and Tailwind CSS, and stores data locally with optional cloud sync via Supabase.
 
 ## Table of Contents
 
@@ -40,47 +40,47 @@ ZonePro brings together seven productivity modules (Learn, Tasks, Focus, Habits,
 
 ## Core Sections
 
-### 🎓 Learn
+### Learn
 
 - Add YouTube videos or playlists as courses
 - Track progress per video and overall completion
 - Take timestamped notes and jump back to exact moments
 - Sidebar pomodoro timer for study sessions
 
-### ✅ Tasks
+### Tasks
 
 - List, kanban, and calendar views
 - Priorities, due dates, labels, subtasks, and dependencies
 - Quick add and detail sheet for full editing
 
-### 🎯 Focus
+### Focus
 
 - Pomodoro timer, countdown timer, and stopwatch modes
 - Link sessions to tasks and track focus time
 - Daily focus budget and session log
 
-### 🌱 Habits
+### Habits
 
 - Daily habit tracking with streaks and completion rates
 - Color-coded dot grid history per habit
 
-### 📝 Notes
+### Notes
 
 - Two-panel Markdown editor with write/preview modes
 - Tags, search, pin, and archive
 
-### 📊 Dashboard
+### Dashboard
 
 - Task completion stats and productivity score
 - Focus time heatmap and habit overview
 
-### 📅 Plan
+### Plan
 
 - Daily top 3 priorities
 - Goals with milestones and progress
 - Weekly review workflow
 
-### 🎵 Music Player
+### Music Player
 
 - Persistent header player with queue, shuffle, and repeat
 - YouTube audio playback with auto-pause rules
